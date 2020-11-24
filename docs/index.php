@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>엔트리 유저들 유형</title>
-  <script> //<li><h2></h2><br/><h3></h3></li></script>
+  <script> /* <li><h2></h2><br/><h3></h3></li> */ </script>
 </head>
   <body>
     <h1>엔트리 유저들 유형</h1>
