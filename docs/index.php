@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>whynicehan1107</title>
+<title>엔트리 특</title>
 </head>
 <body>
-<h1>저희는 해명이 필요합니다.</h1>
+<h1>엔트리 특</h1>
+<ol>
+
 <h2>왜 굳이 태클 거시죠.</h2>
 </body>
 </html>
